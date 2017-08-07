@@ -1,0 +1,1 @@
+export const Symbols = ["USD", "EUR", "GBP", "SEK", "AUD", "CAD", "CHF", "ZAR", "HKD", "CZK", "MYR", "JPY"];    
